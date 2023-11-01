@@ -1,4 +1,4 @@
-# how to create and active virtual environment using cmd windows
+# How to create and active virtual environment using cmd windows
 
 ```
    pip install virtualenv
@@ -14,7 +14,7 @@
 
 ```
 
-# install dependency run local environment
+# Install dependency run local environment
 
 ```
     pip install -r  requirements.txt
@@ -29,7 +29,7 @@ Using docker and Docker-compose
 ```
     docker-compose up -d --build
 ```
-# screenshot
+# Screenshot
 
 ![Screenshot from 2023-06-10 10-59-17](https://github.com/dassudip2001/bot/assets/85440350/2805669b-977c-4ebc-a8da-cdb52561af4b)
 
