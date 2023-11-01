@@ -15,7 +15,7 @@ nltk.download('wordnet')
 
 app = Flask(__name__)
 
-folder_path = "./bbcsport-fulltext/bbcsport/cricket"
+folder_path = "./data"
 path="pwd"
 print(path)
 row = []
@@ -141,3 +141,7 @@ def process_user_input(user_input):
 if __name__ == '__main__':
     # using docker deployment add porr and host
     app.run(debug=True,host='0.0.0.0', port=5000)
+
+
+
+
